@@ -211,13 +211,13 @@
 
  @font-face {
     font-family: Inter ;
-    src: url(./Shrifts/Inter-Regular.woff2);
+    src: url(./shrifts/Inter-Regular.woff2);
  }
 
 @font-face {
     font-family: Poppins;
-    src: url(./Shrifts/Poppins-Bold.woff2), 
-    url(./Shrifts/Poppins-SemiBold.woff2);
+    src: url(./shrifts/Poppins-Bold.woff2), 
+    url(./shrifts/Poppins-SemiBold.woff2);
 }
 
  *{
